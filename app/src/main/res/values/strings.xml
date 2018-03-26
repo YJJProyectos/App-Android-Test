@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test android</string>
+    <string name="boton">boton</string>
+    <string name="numero_1">Numero 1</string>
+    <string name="numero_2">Numero 2</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">calcular</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="salir">Salir</string>
+    <string name="ir_a_otra_vista">Ir a otra vista</string>
+    <string name="url">URL</string>
+    <string name="google_com">google.com</string>
+    <string name="guardar">Guardar</string>
+    <string name="barra">switch</string>
+    <string name="permission">Permission</string>
+    <string name="datos">Datos</string>
+    <string name="pregunta">pregunta</string>
+</resources>
